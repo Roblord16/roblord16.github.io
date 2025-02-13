@@ -1,0 +1,30 @@
+:root {
+    --background-image: url('https://media.discordapp.net/attachments/540277421505511455/966166846665535508/makesweet-d1sj9m.gif?ex=67aead7e&is=67ad5bfe&hm=d6c5afb4861caf07b3e2b3a7ba3ccf0828dfa41bc2c18ce23831d89ee8e7ec08&');
+    --background-position: center top;
+    --background-size: cover;
+    --background-repeat: no-repeat;
+    --background-attachment: fixed;
+}
+
+html {
+    background: var(--background-image);
+    background-size: var(--background-size);
+    background-position: var(--background-position);
+    background-repeat: var(--background-repeat);
+}
+
+.backdrop {
+    position:fixed;
+    padding:0;
+    margin:0;
+
+    top:0;
+    left:0;
+
+    width: 100%;
+    height: 100%;
+}
+
+.music-player {
+    
+}
