@@ -1,0 +1,4 @@
+Miku theme based of ClearVision v6 
+ClearVision theme: https://betterdiscord.app/theme/ClearVision
+base.css based of : https://clearvision.github.io/ClearVision-v6/main.css
+Miku cursor from: https://clearvision.github.io/ClearVision-v6/main.css
