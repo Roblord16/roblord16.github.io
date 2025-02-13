@@ -88,6 +88,10 @@
     --font-code: var(--code-font)
 }
 
+html {
+  cursor: url('./miku.cur'), auto ;
+}
+
 @keyframes cv-fade-in {
     from {
         opacity: 0
